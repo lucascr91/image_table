@@ -1,2 +1,4 @@
 # image_table
-código simples para transformar imagens de tabelas em strings manipuláveis
+
+
+Mini-tutorial com python e jupyter notebook para transformar imagens de tabelas em strings manipuláveis
